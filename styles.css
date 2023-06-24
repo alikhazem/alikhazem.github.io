@@ -1,8 +1,19 @@
 body{
     font-family: monospace;
     background: black;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
 }
 
 main{
     color: white;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    text-align: center;     
+    color: white;
+}
+main a{
+    color: lightblue;
 }
