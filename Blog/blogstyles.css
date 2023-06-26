@@ -1,8 +1,8 @@
-body{
+ body{
     font-family: monospace;
     background: black;
     margin: 0;
-    padding: 0;
+    padding: 25px;
     font-family: monospace;
 }
 
@@ -16,4 +16,8 @@ main{
 }
 main a{
     color: lightblue;
+}
+
+div {
+    color: white;
 }
