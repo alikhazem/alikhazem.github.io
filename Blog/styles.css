@@ -1,0 +1,33 @@
+body{
+    font-family: monospace;
+    background: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+main{
+    color: white;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    text-align: center;     
+    color: white;
+}
+main a{
+    color: lightblue;
+}
+
+a button {
+    display: inline-block;
+    text-align: center;
+    
+    }
+    
+main ul{
+        padding-left: 0;
+    }
+
+main ul li {
+        list-style-position: inside;
+     }
