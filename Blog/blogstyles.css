@@ -16,3 +16,8 @@ main{
 a{
     color: lightblue;
 }
+
+button {
+display: flex;
+justify-content: center;
+}
