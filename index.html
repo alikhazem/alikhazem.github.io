@@ -13,8 +13,19 @@
             <h3>Website currently under construction</h3>
             <p>In the meantime, email me <a href="mailto:ali@alikhazem.com">here</a></p>
             <h4><a href="Blog/index.html">Blog</a></h4>
+            <button id="Blog" type="button" onclick="blogRedirect()">Blog</button>
+            <button id="Contact" type="button" onclick="contactRedirect()">Contact</button>
         </article>
     </main>
     
+<script>
+    function blogRedirect(){
+location.href = "https://alikhazem.github.io/Blog/index.html";
+} 
+
+function contactRedirect(){
+    location.href = "mailto:ali@alikhazem.com"
+}
+</script>
 </body>
 </html>

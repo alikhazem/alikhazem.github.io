@@ -18,10 +18,11 @@ main a{
     color: lightblue;
 }
 
-a button {
+button {
     display: inline-block;
     text-align: center;
-    
+    width: 62px;
+    height: 23px;
     }
     
 main ul{
